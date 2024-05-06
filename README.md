@@ -1,16 +1,20 @@
-### Hi there 👋
+ Software Automation Tester
+Welcome to my GitHub profile! I'm passionate about software quality and automation testing. Here, you'll find a collection of projects and scripts related to test automation, quality assurance, and software development.
 
-<!--
-**YashPawar123/YashPawar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm a dedicated software professional with expertise in automation testing frameworks,manual testing. My goal is to ensure the reliability and efficiency of software products through robust testing practices.
 
-Here are some ideas to get you started:
+Projects
+Project Name :Ecommerce Website Automation Project
+Brief description of project 1.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+Programming Languages: Java,SQL,HTML,CSS
+Automation Tools: Selenium WebDriver, TestNG
+CI/CD: Jenkins
+Version Control: Git, GitHub
+Other: Manual testing , Functional testing 
+Get in Touch
+LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+Email: pawaryash1215@gmail.com
