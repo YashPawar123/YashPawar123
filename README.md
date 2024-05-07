@@ -1,7 +1,7 @@
 ![logo](https://t3.ftcdn.net/jpg/01/36/51/44/360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)
 <h1 align="center">Hi 👋, I'm Yash Uttam Pawar</h1>
 <h3 align="center">A passionate Software Automation Tester</h3>
-<img align="right" widht="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"> 
+<img align="right" height="200"widht="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"> 
 
 - 🌱 certification **Automation testing course-grotechminds**
 
