@@ -1,89 +1,23 @@
- <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Software Automation Tester</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 0;
-    }
+  <h1 align="center">Hi 👋, I'm Yash Uttam Pawar</h1>
+<h3 align="center">A passionate Software Automation Tester</h3>
 
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #fff;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-      border-radius: 5px;
-    }
+- 🌱 certification **Automation testing course-grotechminds**
 
-    h1 {
-      text-align: center;
-      color: #333;
-    }
+- 👨‍💻 All of my projects are available at [YashPawar123](YashPawar123)
 
-    h2 {
-      color: #333;
-    }
+- 💬 Ask me about **Automation Testing AND Manual Testing**
 
-    p {
-      color: #666;
-    }
+- 📫 How to reach me **pawaryash1215@gmail.com**
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1KVubdPnu2beMPimn5Js16CAAnOfYOpjH?usp=sharing](https://drive.google.com/drive/folders/1KVubdPnu2beMPimn5Js16CAAnOfYOpjH?usp=sharing)
 
-    li {
-      margin-bottom: 10px;
-    }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/yash-pawar-3bab7422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yash-pawar-3bab7422a" height="30" width="40" /></a>
+</p>
 
-    a {
-      text-decoration: none;
-      color: #007bff;
-    }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>Software Automation Tester</h1>
-    <p>Welcome to my GitHub profile! I'm passionate about software quality and automation testing. Here, you'll find a collection of projects and scripts related to test automation, quality assurance, and software development.</p>
-    
-    <h2>About Me</h2>
-    <p>I'm a dedicated software professional with expertise in automation testing frameworks, continuous integration, and agile methodologies. My goal is to ensure the reliability and efficiency of software products through robust testing practices.</p>
-    
-    <h2>Projects</h2>
-    <ul>
-      <li><a href="link_to_project_1">Project Name 1</a> - Brief description of project 1.</li>
-      <li><a href="link_to_project_2">Project Name 2</a> - Brief description of project 2.</li>
-      <li><a href="link_to_project_3">Project Name 3</a> - Brief description of project 3.</li>
-    </ul>
-    
-    <h2>Skills</h2>
-    <ul>
-      <li>Programming Languages: Java, Python, JavaScript</li>
-      <li>Automation Tools: Selenium WebDriver, Appium, TestNG, JUnit</li>
-      <li>CI/CD: Jenkins, Travis CI, CircleCI</li>
-      <li>Version Control: Git, GitHub</li>
-      <li>Other: API testing, Docker, Agile methodologies</li>
-    </ul>
-    
-    <h2>Get in Touch</h2>
-    <ul>
-      <li>LinkedIn: <a href="link_to_linkedin_profile">Your LinkedIn Profile</a></li>
-      <li>Email: <a href="mailto:your_email@example.com">your_email@example.com</a></li>
-    </ul>
-    
-    <p>Feel free to reach out if you have any questions or collaboration opportunities!</p>
-  </div>
-</body>
-</html>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpawar123&show_icons=true&locale=en&layout=compact" alt="yashpawar123" /></p>
+
