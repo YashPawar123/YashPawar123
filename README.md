@@ -1,5 +1,7 @@
-  <h1 align="center">Hi 👋, I'm Yash Uttam Pawar</h1>
+![logo](https://www.google.com/imgres?q=background%20banner%20for%20automation%20testing&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F01%2F36%2F51%2F44%2F360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dsoftware%2Btester&docid=MJkCIPzCkzJcSM&tbnid=FMSa4WcCdk6eaM&vet=12ahUKEwis5t_t6_qFAxWiklYBHTZ_BfIQM3oECFsQAA..i&w=840&h=360&hcb=2&ved=2ahUKEwis5t_t6_qFAxWiklYBHTZ_BfIQM3oECFsQAA)
+<h1 align="center">Hi 👋, I'm Yash Uttam Pawar</h1>
 <h3 align="center">A passionate Software Automation Tester</h3>
+<img align="right" widht="400" alt="img"src="[https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media](https://www.google.com/imgres?q=programmer.gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwiXkt-G6_qFAxXB2DgGHQopDSAQM3oECBUQAA..i&w=680&h=428&hcb=2&ved=2ahUKEwiXkt-G6_qFAxXB2DgGHQopDSAQM3oECBUQAA)"> 
 
 - 🌱 certification **Automation testing course-grotechminds**
 
