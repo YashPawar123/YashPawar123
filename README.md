@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pawaryash1215@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1KVubdPnu2beMPimn5Js16CAAnOfYOpjH?usp=sharing](https://drive.google.com/drive/folders/1KVubdPnu2beMPimn5Js16CAAnOfYOpjH?usp=sharing)
+- 📄 Know about my experiences [ https://drive.google.com/drive/u/0/folders/10DRodsUBunT8kgpPPkL2wpySka9gMewf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
